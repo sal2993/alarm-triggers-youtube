@@ -1,9 +1,9 @@
-### Rasperry Pi Youtube Morning Alarm
+# Rasperry Pi Youtube Morning Alarm
 
-# Dependencies needed:
+### Dependencies needed:
  - cec for commands to turn on tv (Rasbian ex):
  ``` apt-get install cec-utils ```
-# To set up..
+### To set up..
 run this command to setup cron job (defaults to 6:20am):
 ``` $ bash set_up_cronjob.sh ```
 
