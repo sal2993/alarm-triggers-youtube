@@ -9,5 +9,4 @@ run this command to setup cron job (defaults to 6:20am):
 
 Notes: 
   - only has been tested on a 2010's Philips TV.
-  - Still not opening Chromium Locally
 
